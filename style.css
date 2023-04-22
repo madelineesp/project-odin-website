@@ -1,3 +1,8 @@
+body{
+   display: flex;
+    font-style: "Roboto", "Arial", "Times New Roman";
+    background-color: blue;
+}
 header{
     display: flex;
 }
